@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+/* small helper so the placeholder looks nicer */
+body {
+  @apply bg-gray-50 text-gray-800;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
