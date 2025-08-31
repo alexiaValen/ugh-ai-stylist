@@ -1,0 +1,11 @@
+export default {
+  plugins: [
+  //   require('@tailwindcss/typography'),
+  //   // Add other plugins here if needed
+  // ],
+  // [
+  {
+    tailwindcss: {},
+    autoprefixer: {},
+  }]
+}
